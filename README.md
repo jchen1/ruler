@@ -1,4 +1,4 @@
-# ruler package
+# Ruler
 
 Adds a ruler to Atom.
 
